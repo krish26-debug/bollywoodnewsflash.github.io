@@ -1,7 +1,9 @@
 ## Projects
 ### Project 1
 .Description
-.Logo: docs/assets/bollywoodnewsflash-logo.webp
+Entertainment Portal
+
+[Bollywoodnewsflash.com](https://bollywoodnewsflash.com/)
 
 
 ### Project 2
