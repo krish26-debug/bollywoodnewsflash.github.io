@@ -1,1 +1,1 @@
-# bollywoodnewsflash.github.io
+# bollywoodnewsflash.github.com
