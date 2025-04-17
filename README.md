@@ -1,7 +1,7 @@
 ## Projects
 ### Project 1
 .Description
-Entertainment Portal
+**Entertainment Portal**
 
 [Bollywoodnewsflash.com](https://bollywoodnewsflash.com/)
 
